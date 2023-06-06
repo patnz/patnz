@@ -16,4 +16,6 @@
   <a href="https://knexjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/knex.svg" width="36" height="36" alt="Knex" /></a>
   <a href="https://testing-library.com" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/testing-library.svg" width="36" height="36" alt="Testing Library" /></a>
   <a href="https://websockets.spec.whatwg.org" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/websocket.svg" width="36" height="36" alt="WebSockets" /></a>
+  <a href="https://threejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/threejs.svg" width="36" height="36" alt="ThreeJS" /></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/php.svg" width="36" height="36" alt="PHP" /></a>
 </p>
