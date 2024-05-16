@@ -7,7 +7,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="36" height="36" alt="Typescript" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/react.svg" width="36" height="36" alt="React" /></a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/redux.svg" width="36" height="36" alt="Redux" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="36" height="36" alt="NextJs" /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="36" height="36" alt="NextJS" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="36" height="36" alt="NodeJS" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/mysql-icon.svg" width="36" height="36" alt="MySQL" /></a>
