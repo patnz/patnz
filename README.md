@@ -1,7 +1,5 @@
 ### ["Never trust a computer you can't throw out a window."](https://www.mynameispat.com/)
 
-x
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/javascript.svg" width="36" height="36" alt="Javascript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="36" height="36" alt="Typescript" /></a>
